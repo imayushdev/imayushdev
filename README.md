@@ -16,7 +16,7 @@ I am a Computer Science undergraduate focused on building scalable software and 
 - 🛠️ **Practicing**: Core DSA concepts and algorithmic problem-solving.
 - 💬 **Ask me about**: Java, OOP principles, and web development basics.
 - ⚡ **Fun fact**: I love breaking down complex problems into simple, reusable code blocks.
-- 
+
 <br>
 
 ## GitHub stats & activity
