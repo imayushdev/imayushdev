@@ -8,11 +8,15 @@
 <br>
 
 ## About me
+### 👋 Hi, I'm Ayush!
 
-- 🔭 I'm currently working on **Concept Specific Projects & DSA**
-- 🌱 I'm currently learning **Advance Java & Spring Boot**
-- 📫 Reach me at **imayushdev.tech@gmail.com**
+I am a Computer Science undergraduate focused on building scalable software and mastering data structures. I believe in consistent, daily learning and applying core concepts to real-world projects.
 
+- 🚀 **Currently exploring**: Advanced Java & Spring Boot microservices.
+- 🛠️ **Practicing**: Core DSA concepts and algorithmic problem-solving.
+- 💬 **Ask me about**: Java, OOP principles, and web development basics.
+- ⚡ **Fun fact**: I love breaking down complex problems into simple, reusable code blocks.
+- 
 <br>
 
 ## GitHub stats & activity
