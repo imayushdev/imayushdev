@@ -55,11 +55,15 @@ I am a Computer Science undergraduate focused on building scalable software and 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/imayushdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/imayushdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/profile/imayushdjm12"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://leetcode.com/u/imayush88/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:imayushdev.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+align="center">
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub"></a>
+  <a href="https://geeksforgeeks.org"><img src="https://shields.io" alt="GeeksforGeeks"></a>
+  <a href="https://leetcode.com"><img src="https://shields.io" alt="LeetCode"></a>
+  <a href="mailto:imayushdev.tech@gmail.com"><img src="https://shields.io" alt="Email"></a>
+
 
 </div>
 
